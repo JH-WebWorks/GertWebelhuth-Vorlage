@@ -1,0 +1,24 @@
+%YAML 1.2
+---
+user_files: user_files
+db: user_files/bolde.db
+server:
+    protocol: http
+    hostname: localhost
+    port: 3000
+    path: ''
+log:
+    appenders:
+      console:
+        type: console
+      file:
+        type: file
+        filename: logs/bolde.log
+        maxLogSize: 10000
+        backups: 5
+    categories:
+      default:
+        appenders:
+          - console
+          - file
+        level: TRACE

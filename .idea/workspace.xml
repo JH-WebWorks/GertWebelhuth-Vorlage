@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c22d2321-2478-49d4-b1aa-8a90d7731aa3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bolde-2018-09-07" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_files/test/p2/f2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25023" selection-start-column="25023" selection-end-column="25023" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Survey.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9886">
+              <caret line="500" column="70" selection-start-line="500" selection-start-column="12" selection-end-line="500" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>butto</find>
+      <find>butt</find>
+      <find>allFeatures</find>
+      <find>visible</find>
+      <find>type</find>
+      <find>cat</find>
+      <find>role</find>
+      <find>BorjesAVM</find>
+      <find>isInformative</find>
+      <find>===== BorjesAVM</find>
+      <find>======= BorjesAVM</find>
+      <find>informative</find>
+      <find>&quot;.borjes&quot;</find>
+      <find>borjes {</find>
+      <find>borjes_latticeel</find>
+      <find>rowb</find>
+      <find>row_b</find>
+      <find>disjunct</find>
+      <find>DISJUNCT</find>
+      <find>file</find>
+      <find>remove</find>
+      <find>removeDuplicates</find>
+      <find>editS</find>
+      <find>BorjesProtoLattice</find>
+      <find>Types</find>
+      <find>BorjesComponent</find>
+      <find>editSignature</find>
+      <find>showSignature</find>
+      <find>BorjesList</find>
+      <find>styleClass</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/VisualEditor.jsx" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/borjes-react/package.json" />
+        <option value="$PROJECT_DIR$/src/borjes-react/dist/BorjesComponent.js" />
+        <option value="$PROJECT_DIR$/src/styles/visual.less" />
+        <option value="$PROJECT_DIR$/src/components/App.jsx" />
+        <option value="$PROJECT_DIR$/src/components/TBView.jsx" />
+        <option value="$PROJECT_DIR$/src/main.jsx" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/../budo-react-boilerplate-master/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/BorjesAVM.jsx-old.jsx" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/src/components/TabPanel.jsx" />
+        <option value="$PROJECT_DIR$/user_files/test/p2/menu" />
+        <option value="$PROJECT_DIR$/src/styles/horizontalMenu.css" />
+        <option value="$PROJECT_DIR$/src/styles/horizontalMenu.less" />
+        <option value="$PROJECT_DIR$/src/components/HorizontalMenu.jsx" />
+        <option value="$PROJECT_DIR$/src/borjes/src/types.js" />
+        <option value="$PROJECT_DIR$/src/components/BorjesAVM-realize" />
+        <option value="$PROJECT_DIR$/src/components/Survey.jsx" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/src/styles/dark.less" />
+        <option value="$PROJECT_DIR$/../bolde-master-2018-08-30/node_modules/borjes-react/src/BorjesAVM.jsx" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/styles/row.less" />
+        <option value="$PROJECT_DIR$/src/styles/borjes.css" />
+        <option value="$PROJECT_DIR$/user_files/test/p2/f2" />
+        <option value="$PROJECT_DIR$/src/components/BorjesList.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesComponent.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesAVM.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/RuleEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesTree.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesDisjunct.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesSet.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesSum.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesVariable.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/PrincipleEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/AbbrEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/DeclarationEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/LexiconEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/visual/LexRuleEditor.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CollectInfo.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesProtoLattice.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesComponents.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BorjesLatticeElement.jsx" />
+        <option value="$PROJECT_DIR$/src/components/VisualEditor.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="60" />
+    <option name="y" value="20" />
+    <option name="width" value="1620" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="user_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="user_files" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolde-2018-09-07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolde-2018-09-07" type="462c0819:PsiDirectoryNode" />
+              <item name="user_files" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="p2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="removeDuplicates&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CollectInfo.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="CollectInfo.jsx" working-dir="$PROJECT_DIR$/src/components">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.CollectInfo.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c22d2321-2478-49d4-b1aa-8a90d7731aa3" name="Default Changelist" comment="" />
+      <created>1535968572807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535968572807</updated>
+      <workItem from="1535968575235" duration="7337000" />
+      <workItem from="1535981489116" duration="7706000" />
+      <workItem from="1536046703478" duration="2424000" />
+      <workItem from="1536058207436" duration="6499000" />
+      <workItem from="1536078591512" duration="967000" />
+      <workItem from="1536131177985" duration="24753000" />
+      <workItem from="1536239998873" duration="488000" />
+      <workItem from="1536318208477" duration="35424000" />
+      <workItem from="1536573772802" duration="18550000" />
+      <workItem from="1536666789987" duration="341000" />
+      <workItem from="1536680801226" duration="5805000" />
+      <workItem from="1536772565613" duration="3495000" />
+      <workItem from="1536839337226" duration="57000" />
+      <workItem from="1536855573784" duration="7476000" />
+      <workItem from="1536920389173" duration="15360000" />
+      <workItem from="1537107151476" duration="223000" />
+      <workItem from="1537109401021" duration="6208000" />
+      <workItem from="1537166113041" duration="24262000" />
+      <workItem from="1537256171756" duration="6048000" />
+      <workItem from="1537288180019" duration="830000" />
+      <workItem from="1537351301573" duration="115000" />
+      <workItem from="1537441714958" duration="22006000" />
+      <workItem from="1537611806153" duration="53619000" />
+      <workItem from="1537990134511" duration="10438000" />
+      <workItem from="1538058857995" duration="50182000" />
+      <workItem from="1538652730766" duration="9375000" />
+      <workItem from="1538671965100" duration="1619000" />
+      <workItem from="1538740623455" duration="9689000" />
+      <workItem from="1538917446085" duration="9252000" />
+      <workItem from="1539096328932" duration="1878000" />
+      <workItem from="1539166259510" duration="10286000" />
+      <workItem from="1539510237003" duration="5429000" />
+      <workItem from="1539541302685" duration="1852000" />
+      <workItem from="1539596379123" duration="2564000" />
+      <workItem from="1539680385806" duration="345000" />
+      <workItem from="1539688119248" duration="917000" />
+      <workItem from="1539866163441" duration="3309000" />
+      <workItem from="1539870609823" duration="2919000" />
+      <workItem from="1539878519739" duration="8717000" />
+      <workItem from="1540193645278" duration="11000" />
+      <workItem from="1540197073611" duration="598000" />
+      <workItem from="1540298998702" duration="1049000" />
+      <workItem from="1542876776578" duration="598000" />
+      <workItem from="1546164306027" duration="82000" />
+      <workItem from="1557927530107" duration="2032000" />
+      <workItem from="1559571171981" duration="9370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="392504000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45248228" visible="true" weight="0.18031704" />
+      <window_info id="Structure" order="1" sideWeight="0.5475177" side_tool="true" weight="0.18031704" />
+      <window_info id="npm" order="2" side_tool="true" weight="0.3295905" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.3295905" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JSON Viewer" order="3" weight="0.32974002" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49451753" visible="true" weight="0.19467343" />
+      <window_info id="Structure" order="1" sideWeight="0.50548244" side_tool="true" visible="true" weight="0.19467343" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JSON Viewer" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user_files/test/p2/menu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/w3.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/horizontalMenu.css" />
+    <entry file="file://$PROJECT_DIR$/src/styles/horizontalMenu.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/HorizontalMenu.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TabPanel.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/File.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stores/TabStore.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TraVis Project/Bolde-orig/bolde-master/src/components/visual/RuleEditor.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesAVM-realize">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bolde-master-2018-08-30/node_modules/borjes-react/dist/BorjesAVM.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/colours.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bolde-master-2018-08-30/node_modules/borjes-react/src/BorjesAVM.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="237" column="38" selection-start-line="237" selection-start-column="38" selection-end-line="237" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/visual.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/dark.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/row.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Row.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TraVis Project/Bolde-orig/borjes-react-master/src/BorjesAVM.jsx" />
+    <entry file="file://$PROJECT_DIR$/../TraVis Project/Bolde-orig/borjes-react-master/src/BorjesComponent.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/Components.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesList.jsx" />
+    <entry file="file://$PROJECT_DIR$/../bolde-master-2018-08-30/node_modules/borjes-react/src/BorjesList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="9" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesComponent.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesAVM.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/borjes/src/declaration.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesSet.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesSum.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesTree.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/AbbrEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/LexRuleEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/PrincipleEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/DeclarationEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/RuleEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/SignatureEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CollectInfo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/visual/LexiconEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="46" selection-start-line="46" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesProtoLattice.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/borjes/src/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="710" column="9" selection-start-line="710" selection-start-column="9" selection-end-line="710" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesDisjunct.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="1" selection-start-line="8" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bolde-master-2018-08-30/node_modules/borjes-react/src/BorjesVariable.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TraVis Project/Bolde-orig/borjes-react-master/src/BorjesVariable.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesVariable.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesLatticeElement.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/borjes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BorjesComponents.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7220">
+          <caret line="361" column="9" selection-start-line="361" selection-start-column="9" selection-end-line="361" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Survey.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9886">
+          <caret line="500" column="70" selection-start-line="500" selection-start-column="12" selection-end-line="500" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/VisualEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="337" column="6" selection-start-line="337" selection-start-column="6" selection-end-line="337" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_files/test/p2/f2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25023" selection-start-column="25023" selection-end-column="25023" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

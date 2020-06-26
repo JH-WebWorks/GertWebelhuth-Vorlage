@@ -1,0 +1,122 @@
+@headersize: 1ex;
+@footersize: 1ex;
+
+.unselectable {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body > footer, body > header {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+body > header {
+    height: @headersize;
+}
+
+body > footer {
+    height: @footersize;
+    bottom: 0;
+}
+
+@tabbarheight: 2em;
+#TabPanel {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: @headersize;
+    bottom: @footersize;
+
+    main {
+        width: 100%;
+        height: 100%;
+
+        display: flex;
+        flex-direction: row;
+        align-content: stretch;
+
+        section {
+            min-width: 1em;
+            position: relative;
+            height: 100%;
+            &:first-child {
+                width: 10%;
+            }
+            &:last-child {
+                width: 35%;
+            }
+            nav {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: @tabbarheight;
+                display: flex;
+                flex-direction: row;
+                & > a {
+                    .unselectable;
+                    white-space: nowrap;
+                    flex: 1 10 auto;
+                    display: inline-flex;
+                    overflow: hidden;
+                    span {
+                        flex: 1 1 auto;
+                        overflow: hidden;
+                    }
+                    .close {
+                        flex: 0 0 auto;
+                    }
+                    &.selected {
+                        flex: 0 1 auto;
+                    }
+                }
+            }
+            & > div {
+                position: absolute;
+                top: @tabbarheight;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                overflow: auto;
+                & > div {
+                    height: 100%;
+                }
+            }
+        }
+
+        .central {
+            flex: 1 1 auto;
+        }
+    }
+
+}
+
+a {
+    cursor: pointer;
+}
+
+.spacer {
+    flex: 10000 10000 0 !important;
+}
+
+.paper {
+    min-height: 100%;
+}
+
+.CodeMirror {
+    height: 100% !important;
+}

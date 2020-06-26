@@ -1,0 +1,46 @@
+@import (inline) "borjes.css";
+
+
+.hm_ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 50px; /* Width of Menu Items */
+	border-bottom: 1px solid #ccc;
+	}
+
+
+
+.hm_ul li {
+	position: absolute;
+	}
+
+.hm_ul ul {
+	position: relative;
+	//Set 1px less than menu width
+	left: 50px;
+	top: 0;
+	}
+
+//Styles for Menu Items
+ .hm_ul li a {
+	 font-style: italic;
+	text-decoration: none;
+	color: #c30;
+	background: #fff;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-bottom: 0;
+	}
+
+//.hm_ul li:hover ul { display: block; }
+
+/*
+!* Fix IE. Hide from IE Mac \*!
+* html ul li { float: left; height: 1%; }
+* html ul li a { height: 1%; }
+!* End *!
+		
+
+*/
+

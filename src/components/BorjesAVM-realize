@@ -1,0 +1,12 @@
+<span className="borjes"><BorjesComponent
+                          feat={f}
+                          x={val}
+                          decl={this.props.decl}
+                          role={'featureValue'}
+                          doc={doc}
+                          update={this.updateF.bind(this, f)}
+                          edit={edit}
+                          refresh={refresh}
+                          globalProps={globalProps}
+                          opts={opts}/>
+</span>

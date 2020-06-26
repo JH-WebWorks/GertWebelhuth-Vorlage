@@ -1,0 +1,9 @@
+{
+  "name": "tfm",
+  "version": "1.0.0",
+  "description": "Prototype tfm",
+  "private": true,
+  "dependencies": {
+    "ace-builds": "ajaxorg/ace-builds#~1.1.8"
+  }
+}

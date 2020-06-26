@@ -1,0 +1,128 @@
+@lattice_color: #c30;
+@literal_color: #080;
+@variable_color: #64f;
+@button_color: #fd8;
+
+document {
+    z-index: 0;
+}
+
+.borjes_fs {
+    display: inline-block;
+    border-collapse: collapse;
+    text-align: left;
+    border-radius: 1.0em;
+    margin: 0.1em 0.2em;
+    padding: 0.3em 0.4em;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-family: serif;
+    vertical-align: middle;
+    .borjes_feat {
+        font-variant: small-caps;
+        padding-right: 1ex;
+        span {
+            cursor: pointer;
+        }
+    }
+    th {
+        margin-top: -0.5em;
+        margin-bottom: 0.5em;
+        font-weight: normal;
+        cursor: pointer;
+    }
+}
+
+.borjes_hidden {
+    display: none;
+}
+
+.borjes_literal {
+    &::before {
+        content: "“";
+    }
+    &::after {
+        content: "”";
+    }
+    font-style: italic;
+    color: @literal_color;
+}
+
+.borjes_latticeel {
+    font-style: italic;
+    color: @lattice_color;
+}
+
+.borjes_typerestr {
+    font-style: italic;
+    color: @literal_color;
+}
+
+.borjes_variable {
+    padding: 0px 2px;
+    margin: 2px;
+    border: 1px solid @variable_color;
+    color: @variable_color;
+    cursor: pointer;
+}
+
+.borjes {
+    input {
+        width: 3em;
+        margin: 0px;
+    }
+    button {
+        background: @button_color;
+        border-radius: 5px;
+        font-size: 90%;
+        padding: 1px;
+        margin: 1px 2px;
+        border: none;
+        border-bottom: 2px solid darken(@button_color, 30%);
+        .small {
+            font-size: 80%;
+            padding: 0px;
+            margin: 0px 2px 0px 0px;
+        }
+    }
+}
+
+.borjes_menu {
+    & > div {
+        border: 1px solid darken(@button_color, 15%);
+        border-radius: 3px;
+        padding: 2px;
+        background: white;
+        z-index: 1;
+    }
+}
+
+.borjes_latticeproto {
+    border-left: 1px solid black;
+    border-radius: 8px;
+    padding: 3px;
+}
+.borjes_lpel_ref {
+    font-style: italic;
+    &::before {
+        content: "&";
+    }
+}
+
+.borjes_list {
+    &::before {
+        content: "⟨";
+    }
+    &::after {
+        content: "⟩";
+    }
+}
+
+.borjes_set {
+    &::before {
+        content: "{";
+    }
+    &::after {
+        content: "}";
+    }
+}

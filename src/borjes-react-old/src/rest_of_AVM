@@ -1,0 +1,69 @@
+        var prev = null;
+        if (edit) {
+            prev = <Menu>
+                <button onClick={this.remove.bind(this)}>x</button>
+                <button onClick={this.copy.bind(this)}>copy</button>
+                <button onClick={this.paste.bind(this)}>paste</button>
+            </Menu>
+        }
+
+
+
+          {prev}<table className="borjes_fs" >
+                    {x.borjes === 'tfstruct' ? <thead>
+                    <tr>
+                        <th colSpan="2">
+                            <BorjesComponent x={x.type || Type} refresh={refresh} update={this.updateType.bind(this)} edit={edit} opts={opts}/>
+                        </th>
+                    </tr>
+                    </thead> : null}
+                    <tbody className={this.state.show ? 'borjes_visible' : 'borjes_hidden'}>
+                   {atrs.map(f => {
+                           var val = FStruct.get(x, f);
+                       var prev2 = null;
+                       if (edit && val.borjes !== 'anything' && val.borjes !== 'tfstruct' && val.borjes !== 'fstruct') {
+                           prev2 = <Menu>
+                               <button onClick={this.remove2.bind(this, f)}>x</button>
+                               <button onClick={this.copy2.bind(this, val)}>copy</button>
+                               <button onClick={this.paste2.bind(this, f)}>paste</button>
+                           </Menu>
+                       }
+                           var fname = f;
+                           if (!edit) {
+                               while (val.borjes === 'fstruct' && val.f.length == 1) {
+                                   fname += ' | ' + val.f[0];
+                                   val = FStruct.get(val, val.f[0]);
+                               }
+                           }*/
+                           return (
+                               <tr key={'tr_' + fname}>
+                                   <td className="borjes_feat">
+                                       {edit ? <button onClick={this.rmF.bind(this, f)}>x</button> : null}
+                                       <span
+                                       key={'feature_' + fname} onDoubleClick={this.togglePrev2F.bind(this, f)}>{fname}
+                                       </span>
+                                   </td>
+                                   <td>{showPrev2[f] ? prev2 : null}<span>
+                                       <BorjesComponent
+                                           x={val}
+                                           file={file}
+                                           update={this.updateF.bind(this, f)}
+                                           edit={edit}
+                                           refresh={refresh}
+                                           opts={opts}/></span>
+
+                                   </td>
+                               </tr>
+                           )
+                       }
+                   )
+                   }
+                    <tr>
+                        <td>
+                            {edit? <input ref={d => this.newFeature = d} type="text" size="40" id="newFeature" onKeyUp={this.newFeatureF.bind(this)}/>: null}
+                        </td>
+                    </tr>
+                   {edit?<tr><td><span style={{'cursor':'pointer'}} onClick={this.turnEditOff.bind(this)}>-</span></td></tr>
+                       : <tr><td><span style={{'cursor':'pointer', 'fontSize':'small'}} onClick={this.turnEditOn.bind(this)}>+</span></td></tr>}
+                    </tbody>
+                </table>

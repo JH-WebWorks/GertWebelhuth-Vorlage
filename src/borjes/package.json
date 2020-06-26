@@ -1,0 +1,36 @@
+{
+  "_from": "github:agarsev/borjes#semver:^1.0.0",
+  "_id": "borjes@0.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/borjes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "borjes@github:agarsev/borjes#semver:^1.0.0",
+    "name": "borjes",
+    "escapedName": "borjes",
+    "rawSpec": "github:agarsev/borjes#semver:^1.0.0",
+    "saveSpec": "github:agarsev/borjes#semver:^1.0.0",
+    "fetchSpec": null,
+    "gitRange": "^1.0.0",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:agarsev/borjes#eea42fce37bc9089c1c0eec9a1de86ef507a9693",
+  "_spec": "borjes@github:agarsev/borjes#semver:^1.0.0",
+  "_where": "/Users/gert/Desktop/bolde-master",
+  "bundleDependencies": false,
+  "dependencies": {
+    "js-yaml": "^3.3.0"
+  },
+  "deprecated": false,
+  "description": "Borjes is a javascript library for unification based grammar parsing. It has not been tested with large-sized grammars, and is intended more as a demonstration and for educative purposes.",
+  "license": "AGPL-3.0",
+  "main": "src/index.js",
+  "name": "borjes",
+  "private": true,
+  "version": "0.1.0"
+}

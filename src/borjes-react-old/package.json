@@ -1,0 +1,52 @@
+{
+  "_from": "github:agarsev/borjes-react#semver:^1.0.0",
+  "_id": "borjes-react@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/borjes-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "borjes-react@github:agarsev/borjes-react#semver:^1.0.0",
+    "name": "borjes-react",
+    "escapedName": "borjes-react",
+    "rawSpec": "github:agarsev/borjes-react#semver:^1.0.0",
+    "saveSpec": "github:agarsev/borjes-react#semver:^1.0.0",
+    "fetchSpec": null,
+    "gitRange": "^1.0.0",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:agarsev/borjes-react#e821a6dea31df31cf36cc32f358fc4748495e5da",
+  "_spec": "borjes-react@github:agarsev/borjes-react#semver:^1.0.0",
+  "_where": "/Users/gert/Desktop/bolde-master-2018-04-25",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A library for displaying [borjes](https://github.com/agarsev/borjes) objects as [React](https://reactjs.org/) components.",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.0",
+    "less": "^3.0.1",
+    "react-dom": "^16.2.0"
+  },
+  "license": "AGPL-3.0",
+  "main": "dist/main.js",
+  "name": "borjes-react",
+  "peerDependencies": {
+    "borjes": "agarsev/borjes",
+    "react": "^16.2.0"
+  },
+  "private": true,
+  "version": "1.0.1",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "cli": "^1.0.1"
+  }
+}

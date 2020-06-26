@@ -1,0 +1,45 @@
+@import "colours.less";
+
+.row {
+    border: 2px solid blue;
+    border-radius: 0.5em 0.5em 0 0;
+    .row_header {
+        padding: 0.5ex;
+        border-radius: 0.5em 0.5em 0 0;
+        //border-radius: 0.5em 0.5em 0 0;
+        background: #ffffff;
+        color: black;
+        display: flex;
+        & > span, & > a {
+            padding: 1px 4px;
+            margin: 1px 3px;
+        }
+        & > span {
+            text-size: 120%;
+            font-weight: bold;
+        }
+        & > a {
+            background: lighten(@blue, 40%);
+            color: black;
+            border-radius: 1ex;
+            & > div {
+                border: 1px solid @blue;
+                border-radius: 3px;
+                background: lighten(@blue, 40%);
+                padding: 2px;
+            }
+            &:hover {
+                cursor: pointer;
+                background: lighten(@blue, 50%);
+            }
+        }
+        &.collapsable {
+            cursor: pointer;
+        }
+    }
+    .row_body {
+        padding: 1ex;
+        background: #ffffff; //lighten(@blue, 60%);
+    }
+    margin-bottom: 0.3em;
+}

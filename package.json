@@ -1,0 +1,62 @@
+{
+  "name": "BOLDE",
+  "version": "2.2.0",
+  "description": "Borjes Online Linguistics Development Environment",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "go": "budo ./src/main.jsx --live -- --ignore-missing",
+    "gert": "./node_modules/.bin/browserify ./src/main.jsx -o build/bundle.js -dv & serve public"
+  },
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/agarsev/bolde",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "body-parser": "^1.12.0",
+    "bower": "^1.3.12",
+    "brfs": "^1.4.0",
+    "browserchannel": "^2.1.0",
+    "browserify": "^16.1.0",
+    "compression": "^1.5.2",
+    "config": "^1.12.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.12.2",
+    "flux": "^3.1.3",
+    "fs-extra": "^5.0.0",
+    "js-yaml": "^3.2.7",
+    "less": "^3.0.1",
+    "less-plugin-autoprefix": "^1.4.0",
+    "lessify": "^1.0.1",
+    "log4js": "^2.5.3",
+    "markdown-it": "^8.4.1",
+    "multer": "^1.1.0",
+    "nedb": "^1.8.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "reactify": "^1.1.0",
+    "share": "^0.6.3",
+    "sse-pusher": "^1.1.1",
+    "tcomb": "^3.2.24",
+    "tcomb-form": "^0.9.20",
+    "tcomb-validation": "^3.4.1"
+  },
+  "devDependencies": {
+    "audit": "0.0.6",
+    "babelify": "^10.0.0",
+    "fix": "0.0.6",
+    "npm": "^6.9.0",
+    "serve": "^11.0.1",
+    "watchify": "^3.11.1"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "reactify",
+        {
+          "es6": true
+        }
+      ],
+      "brfs"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+@import "colours.less";
+
+@import (inline) "borjes.css";
+
+.section {
+    padding-bottom: 15px;
+    font-size: 200%;
+    font-weight: bold;
+    color: blue;
+    align: center;
+}
+
+
+.pos_label {
+    font-weight: bold;
+}
+
+.featTable { border: none; border-collapse: collapse; }
+.featTable td { border-left: 1px solid green; padding: 5px}
+.featTable th { text-align: center}
+
+
+
+.surveyTd {
+    font-weight: bold;
+}
+
+.surveyTr {
+    marginButtom: '30px'
+}
+
+
+
+#headFTable {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+
+pre {
+    font-size: 100%;
+}
+
+
+tr.paddingBottomTR {
+    & > td {
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: green;
+        padding-bottom: 10px
+    }
+}
+
+/* Main content */
+.main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+    font-size: 20px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+/* Fixed sidenav, full height */
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #FB6542;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+

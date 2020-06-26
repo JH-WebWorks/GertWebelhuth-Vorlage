@@ -1,0 +1,62 @@
+<table>
+    <tr draggable="true" ondragenter="dragenter(event)" ondragstart="dragstart(event)">
+        <td style="border: 1px solid black">Apples</td>
+        <td style="border: 1px solid black">A-Column2</td>
+    </tr>
+    <tr draggable="true" ondragenter="dragenter(event)" ondragstart="dragstart(event)">
+        <td style="border: 1px solid black">Oranges</td>
+        <td style="border: 1px solid black">O-Column2</td>
+    </tr>
+    <tr draggable="true" ondragenter="dragenter(event)" ondragstart="dragstart(event)">
+        <td style="border: 1px solid black">Bananas</td>
+        <td style="border: 1px solid black">B-Column2</td>
+    </tr>
+    <tr draggable="true" ondragenter="dragenter(event)" ondragstart="dragstart(event)">
+        <td style="border: 1px solid black">Strawberries</td>
+        <td style="border: 1px solid black">S-Column2</td>
+    </tr>
+</table>
+
+
+
+var source;
+
+function isbefore(a, b) {
+if (a.parentNode == b.parentNode) {
+for (var cur = a; cur; cur = cur.previousSibling) {
+if (cur === b) {
+return true;
+}
+}
+}
+return false;
+}
+
+function dragenter(e) {
+var target = e.target;
+while (target.parentNode.tagName != 'TBODY') {
+target = target.parentNode;
+}
+
+if (isbefore(source, target)) {
+target.parentNode.insertBefore(source, target);
+}
+else {
+target.parentNode.insertBefore(source, target.nextSibling);
+}
+}
+
+if (isbefore(source, targetelem)) {
+targetelem.parentNode.insertBefore(source, targetelem);
+} else {
+targetelem.parentNode.insertBefore(source, targetelem.nextSibling);
+}
+}
+
+function dragstart(e) {
+source = e.target;
+e.dataTransfer.effectAllowed = 'move';
+}
+
+
+
