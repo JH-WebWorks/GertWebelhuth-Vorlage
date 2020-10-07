@@ -1,7 +1,6 @@
 build/*
 node_modules/*
 bower_components/*
-user_files/*
 logs/*
 config/local.yml
 browserify-cache.json
